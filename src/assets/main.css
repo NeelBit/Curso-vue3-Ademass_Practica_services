@@ -1,0 +1,10 @@
+@import './base.css';
+
+#app {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+
+    /* en footer margin-top auto y lo pone abajo */
+    min-height: 100vh;
+}
